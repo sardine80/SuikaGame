@@ -631,7 +631,7 @@ MonoBehaviour:
   - {fileID: 8746417988096521143, guid: d2fa19a087a8e694985575c0f41f945c, type: 3}
   boundXMin: -7.5
   boundXMax: 7.5
-  makeTime: 1
+  makeTime: 0.5
   maxIndex: 2
   mergeTime: 0.1
   maxHeight: 11
