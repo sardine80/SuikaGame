@@ -117,7 +117,7 @@ public class gamemanager : MonoBehaviour
         RemoveCircle(b.gameObject);
 
         var p =Instantiate(particle, center, Quaternion.identity);
-        Destroy(p,0.5f);
+        Destroy(p,3f);
         MakeCircle(curLevel, center).GetComponent<Circle>().Init(this,curLevel,true);
     }
 
